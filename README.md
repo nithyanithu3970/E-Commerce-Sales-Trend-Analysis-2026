@@ -17,4 +17,4 @@ This project uses analytical tools such as Microsoft Power BI, Python, SQL, and 
 - Create interactive business dashboards
 # 🛠️ Technologies Used
 
-# **Python Libraries**
+# *Python Libraries*
