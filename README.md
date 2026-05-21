@@ -90,7 +90,7 @@ These trends align with recent 2026 industry reports highlighting AI, omnichanne
 ✔ Business Insight Generation
 ✔ Retail Analytics
 
-# 🖥️ Dashboard Preview 
+# 🖥️ Dashboard Preview
 - Technical Skills
 - Programming Skills
 - Business Intelligence Skills
