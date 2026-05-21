@@ -15,3 +15,6 @@ This project uses analytical tools such as Microsoft Power BI, Python, SQL, and 
 - Compare regional sales performance
 - Analyze profit and discount impact
 - Create interactive business dashboards
+# 🛠️ Technologies Used
+
+# **Python Libraries**
