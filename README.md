@@ -1,5 +1,5 @@
 # E-Commerce-Sales-Trend-Analysis-2026
-# **Project Overview**
+# 📌 Project Overview
 
 The E-commerce Sales Trend Analysis 2026 project focuses on analyzing online retail sales data to identify emerging market trends, customer purchasing behavior, product performance, profitability, and business growth opportunities in the evolving digital commerce industry.
 
