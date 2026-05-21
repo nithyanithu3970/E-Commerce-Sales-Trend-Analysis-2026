@@ -6,6 +6,7 @@ The E-commerce Sales Trend Analysis 2026 project focuses on analyzing online ret
 In 2026, the e-commerce industry is experiencing rapid transformation driven by AI-powered personalization, mobile commerce, social commerce, quick commerce, and data-driven customer engagement. Global online sales are expected to continue strong growth, while businesses increasingly depend on analytics tools for strategic decision-making.
 
 This project uses analytical tools such as Microsoft Power BI, Python, SQL, and Microsoft Excel to clean, analyze, visualize, and interpret e-commerce sales data through interactive dashboards and reports.
+
 # 🎯 Objectives
 
 - Analyze overall sales performance
@@ -15,6 +16,7 @@ This project uses analytical tools such as Microsoft Power BI, Python, SQL, and 
 - Compare regional sales performance
 - Analyze profit and discount impact
 - Create interactive business dashboards
+
 # 🛠️ Technologies Used
 
 # Python Libraries
@@ -27,3 +29,9 @@ This project uses analytical tools such as Microsoft Power BI, Python, SQL, and 
 # Development Environment
 - Google Colab
 - Jupiter Notebook
+
+# 📂 Dataset Information
+- Dataset Name: E-Commerce Sales Dataset 2022-2026
+- Source: Kaggle Dataset
+- Size: Number of rows:5000(transactions) and columns: 12(features)
+- Description: Contains e-commerce transaction details such as OrderID, Order Date, CustomerID, Product Category, Sales, Profit, Discounts, Region, Payment Method, and Revenue.
