@@ -6,3 +6,12 @@ The E-commerce Sales Trend Analysis 2026 project focuses on analyzing online ret
 In 2026, the e-commerce industry is experiencing rapid transformation driven by AI-powered personalization, mobile commerce, social commerce, quick commerce, and data-driven customer engagement. Global online sales are expected to continue strong growth, while businesses increasingly depend on analytics tools for strategic decision-making.
 
 This project uses analytical tools such as Microsoft Power BI, Python, SQL, and Microsoft Excel to clean, analyze, visualize, and interpret e-commerce sales data through interactive dashboards and reports.
+# 🎯 Objectives
+
+- Analyze overall sales performance
+- Identify top-selling products and categories
+- Track monthly and yearly sales trends
+- Understand customer purchasing behavior
+- Compare regional sales performance
+- Analyze profit and discount impact
+- Create interactive business dashboards
